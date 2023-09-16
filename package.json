@@ -1,21 +1,21 @@
 {
-  "name": "parcel-handlebars",
+  "name": "Pagination",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IrynaSokolova-Quanandrya.github.io/parcel-handlebars",
+  "homepage": "https://github.com/Voronyuk05.io/Pagination",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-handlebars/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IrynaSokolova-Quanandrya/parcel-handlebars.git"
+    "url": "git+https://github.com/Voronyuk05/Pagination.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrynaSokolova-Quanandrya/parcel-handlebars/issues"
+    "url": "https://github.com/Voronyuk05/Pagination/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
