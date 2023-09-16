@@ -5,7 +5,7 @@
   "homepage": "https://github.com/Voronyuk05.io/Pagination",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-handlebars/"
+    "build": "parcel build src/*.html --public-url /Pagination/"
   },
   "repository": {
     "type": "git",
